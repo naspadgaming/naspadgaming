@@ -15,15 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack:
+
+# Halo! Saya naspadgaming 👋
+
+### 💻 Tech Stack:
 
 ![C](https://shields.io)
 ![Python](https://shields.io)
 ![Bash Script](https://shields.io)
+![Markdown](https://shields.io)
+![NumPy](https://shields.io)
 ![PyTorch](https://shields.io)
+![Pandas](https://shields.io)
 
-![Statistik GitHub](https://vercel.app)
+---
 
-![Bahasa Terbanyak](https://vercel.app)
+### 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://vercel.app" alt="Statistik GitHub naspadgaming" width="48%" />
+  <img src="https://vercel.app" alt="Bahasa Terbanyak naspadgaming" width="48%" />
+</p>
 
