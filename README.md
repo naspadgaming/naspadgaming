@@ -16,24 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-# Halo! Saya naspadgaming 👋
 
-### 💻 Tech Stack:
-
-![C](https://shields.io)
-![Python](https://shields.io)
-![Bash Script](https://shields.io)
-![Markdown](https://shields.io)
-![NumPy](https://shields.io)
-![PyTorch](https://shields.io)
-![Pandas](https://shields.io)
 
 ---
 
-### 📊 GitHub Stats:
+### 💻 Tech Stack & Keahlian:
 
-<p align="center">
-  <img src="https://vercel.app" alt="Statistik GitHub naspadgaming" width="48%" />
-  <img src="https://vercel.app" alt="Bahasa Terbanyak naspadgaming" width="48%" />
-</p>
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Bahasa Pemrograman** | `C` , `Python` , `Bash Script` |
+| **Data & Library** | `NumPy` , `Pandas` , `PyTorch` |
+| **Dokumentasi** | `Markdown` |
+
+---
+
+### 📊 Riwayat Kontribusi:
+*(Grafik otomatis pihak ketiga sedang dinonaktifkan sementara demi performa loading profil di aplikasi mobile).*
+
+Anda dapat melihat riwayat kontribusi aktif saya secara langsung melalui grafik kotak hijau resmi GitHub di bagian bawah profil ini.
 
