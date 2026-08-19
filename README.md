@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 ![Bash Script](https://shields.io)
 ![PyTorch](https://shields.io)
 
+![Statistik GitHub](https://vercel.app)
+
+![Bahasa Terbanyak](https://vercel.app)
+
+
