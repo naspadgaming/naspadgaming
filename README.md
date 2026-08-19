@@ -17,21 +17,3 @@ Here are some ideas to get you started:
 
 
 
-
----
-
-### 💻 Tech Stack & Keahlian:
-
-| Kategori | Teknologi |
-| :--- | :--- |
-| **Bahasa Pemrograman** | `C` , `Python` , `Bash Script` |
-| **Data & Library** | `NumPy` , `Pandas` , `PyTorch` |
-| **Dokumentasi** | `Markdown` |
-
----
-
-### 📊 Riwayat Kontribusi:
-*(Grafik otomatis pihak ketiga sedang dinonaktifkan sementara demi performa loading profil di aplikasi mobile).*
-
-Anda dapat melihat riwayat kontribusi aktif saya secara langsung melalui grafik kotak hijau resmi GitHub di bagian bawah profil ini.
-
