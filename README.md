@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tech Stack:
+
+![C](https://shields.io)
+![Python](https://shields.io)
+![Bash Script](https://shields.io)
+![PyTorch](https://shields.io)
+
