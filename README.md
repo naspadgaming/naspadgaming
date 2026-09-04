@@ -6,17 +6,10 @@
 ![](https://streak-stats.demolab.com/?user=naspadgaming&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=naspadgaming&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naspadgaming&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Quote
 "Talk is cheap. Show me the code."
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naspadgaming&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=naspadgaming&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
